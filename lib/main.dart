@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_tv/home_page.dart';
 
 void main() {
+  // main function modification
   runApp(const MyApp());
 }
 
